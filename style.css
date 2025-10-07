@@ -11,6 +11,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+h1{
+  font-size: 20px;
+  color: red;
+  cursor: pointer; /*i made a colour to the heading*/
+}
+
 .calculator {
   background: #333;
   padding: 20px;
